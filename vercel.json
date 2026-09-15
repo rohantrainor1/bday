@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Bruna%20Birthday.dc.html"
+    }
+  ]
+}
